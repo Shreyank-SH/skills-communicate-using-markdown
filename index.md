@@ -7,3 +7,9 @@ Markdown is a lightweight syntax for communicating on GitHub. You can format tex
 ###### This is an example of an H6 header (smallest)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Example Code Block
+def greet(name):
+print(f"Hello, {name}!")
+
+greet("GitHub")
